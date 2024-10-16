@@ -112,9 +112,9 @@ const Projects = () => {
         title: 'Centro Cultural',
         description:
           'Plataforma que permite a los usuarios comprar tickets para eventos con asientos numerados, acceder a convenciones y reservar stands para emprendedores.',
-        image: 'https://i.imgur.com/dNnzRgy.png',
-        demoLink: 'https://homebankingfront-6n5u.onrender.com/',
-        githubLink: 'https://github.com/psilocyamp/homebankingFront',
+          image: 'https://i.imgur.com/yt6yiEH.png',
+          demoLink: 'https://passwave.onrender.com/Home',
+          githubLink: 'https://github.com/LudwingValecillos/PassWave',
         technologies: ['Vue.js', 'Firebase', 'Vuex', 'PWA', 'Cloud Functions'],
       },
       {
@@ -134,7 +134,7 @@ const Projects = () => {
         ],
       },
     ],
-    es: [
+    en: [
       {
         title: 'HomeBanking',
         description:
